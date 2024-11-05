@@ -10,4 +10,4 @@ EV3 3D Rendering using vertices and trigonometry.
 
 # Caveats
 
-- cpufreq overclocking is **NOT** required.
+- cpufreq overclocking is **NOT** required, but will improve performance.
